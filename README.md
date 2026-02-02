@@ -92,5 +92,9 @@ Los usuarios en el grupo **Responsable Guardería** podrán crear, modificar y e
 
 ## Autores
 
-- Autor técnico del módulo: `AllKeysHUB` (según manifest).
+- Autor técnico del módulo: `BlueMichelle` (según manifest).
 - Adaptaciones y prácticas realizadas por: Michelle para la Tarea 14 (Guardería).
+
+  ## Imagen
+  
+
