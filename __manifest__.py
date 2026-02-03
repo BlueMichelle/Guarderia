@@ -8,7 +8,7 @@
 Descripción del módulo de la tarea 14 para la gestión de una guardería para empleados.
     """,
 
-    'author': "AllKeysHUB",
+    'author': "BlueMichelle",
     'website': "127.0.0.1:8069",
 
     # Categories can be used to filter modules in modules listing
